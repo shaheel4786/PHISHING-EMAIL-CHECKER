@@ -22,7 +22,7 @@ This is a simple machine learning-based Python project that detects whether an e
    git clone https://github.com/shaheel4786/PHISHING-EMAIL-CHECKER.git
    cd PHISHING-EMAIL-CHECKER
 ## 🛠️ Install dependencies
-pip install -r requirements.txt
+   pip install -r requirements.txt
 ## 🛠️ Run the script
-python email_detector.py
+   python email_detector.py
 
